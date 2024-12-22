@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-keeper--app/static/css/main.cfdb5a21.css",
+    "main.js": "/react-keeper--app/static/js/main.ffe44a24.js",
+    "index.html": "/react-keeper--app/index.html",
+    "main.cfdb5a21.css.map": "/react-keeper--app/static/css/main.cfdb5a21.css.map",
+    "main.ffe44a24.js.map": "/react-keeper--app/static/js/main.ffe44a24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfdb5a21.css",
+    "static/js/main.ffe44a24.js"
+  ]
+}
